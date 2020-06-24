@@ -69,7 +69,7 @@ Paso 8 ingresamos a la pagina Jitpack , dentro de su buscador ingresaremos el li
 Paso 9 creamos una nueva carpeta y ingresamos la dependencia que nos genero.
  
 CAPTURAS
-   
+  [![INSERT YOUR GRAPHIC HERE](https://drive.google.com/file/d/10K1K6jv-ZpXEqEFLwYMVrmG2bzTC9aUw/view )]() 
 
 CONCLUCIONES
 Se realizó las investigaciones correspondientes  con lo cual se creó la librería en base al código desarrollado en el semestre, no obstante la librería no es  100% funcional puesto que no se logró hacer que  la información que se muestra dentro de cada una de las pantallas  sea editable.
